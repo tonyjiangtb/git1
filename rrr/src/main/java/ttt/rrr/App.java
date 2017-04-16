@@ -11,7 +11,6 @@ public class App
     	// t2
         // new line after branching
         // second user add
-        // second user add again
         System.out.println( "Hello World!" );
     }
 }
