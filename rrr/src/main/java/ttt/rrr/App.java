@@ -12,7 +12,7 @@ public class App
         // new line after branching
         // second user add
         // second user add again
-    	// lala
+    	// lala lala
         System.out.println( "Hello World!" );
     }
 }
